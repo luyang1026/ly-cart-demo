@@ -8,5 +8,8 @@
 # install dependencies
 npm install
 
+# development
+npm run dev
+
 # start server
 npm start
